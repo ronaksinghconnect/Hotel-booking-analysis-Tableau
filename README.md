@@ -217,8 +217,6 @@ These insights enable hotel management and marketing teams to make data-driven d
 ## 🛠 Tools Used
 
 * Tableau
-* Excel
-* Data Cleaning
 * Exploratory Data Analysis (EDA)
 * Business Intelligence & Dashboarding
 * Hotel Booking Dataset Analysis
