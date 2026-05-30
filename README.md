@@ -43,7 +43,9 @@ To answer this question, multiple analytical views were created to understand cu
 12. Which payment-related factors affect cancellations?
 
 ---
-https://github.com/ronaksinghconnect/Hotel-booking-analysis-Tableau/blob/main/Hotel%20Booking%20dashboard.png
+## Dashboard Preview
+
+![Hotel Booking Dashboard](https://raw.githubusercontent.com/ronaksinghconnect/Hotel-booking-analysis-Tableau/main/Hotel%20Booking%20dashboard.png)
 # 📈 Key Findings
 
 ## 1️⃣ Hotel Type Cancellation Analysis
